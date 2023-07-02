@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yolo-chen.github.io</id>
+    <title>一笑</title>
+    <updated>2023-07-02T14:12:02.048Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yolo-chen.github.io"/>
+    <link rel="self" href="https://yolo-chen.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://yolo-chen.github.io/images/avatar.png</logo>
+    <icon>https://yolo-chen.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 一笑</rights>
+    <entry>
+        <title type="html"><![CDATA[CentOs7安装Hadoop集群]]></title>
+        <id>https://yolo-chen.github.io/post/centos7-an-zhuang-hadoop-ji-qun/</id>
+        <link href="https://yolo-chen.github.io/post/centos7-an-zhuang-hadoop-ji-qun/">
+        </link>
+        <updated>2022-07-28T06:02:43.000Z</updated>
+    </entry>
+</feed>
